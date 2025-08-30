@@ -1,13 +1,5 @@
 # Solid-Right-Angled-Triangle
 
-Input: 4 
-
-Output:
-
-*
-* *
-* * *
-* * * *
 
 Question: Solid Right Angled Triangle
 
